@@ -1,0 +1,12 @@
+feed,http_status,bytes
+https://www.fiercebiotech.com/rss/xml,200,21031
+https://www.fiercebiotech.com/rss/biotech/xml,200,20410
+https://www.fiercepharma.com/rss/xml,200,22115
+https://www.biospace.com/all-news.rss,200,14727
+https://www.biospace.com/fda.rss,200,7684
+https://www.biospace.com/drug-development.rss,403,118
+https://www.biospace.com/deals.rss,403,118
+https://www.biospace.com/business.rss,200,7925
+https://www.statnews.com/category/biotech/feed,200,55288
+https://www.statnews.com/category/pharma/feed,200,65759
+http://www.fda.gov/AboutFDA/ContactFDA/StayInformed/RSSFeeds/MedWatch/rss.xml,200,15290

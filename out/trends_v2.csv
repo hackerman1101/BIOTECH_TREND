@@ -1,0 +1,4 @@
+ticker,trend_score,velocity_6h,accel_6h,mentions_6h,mentions_prev6h,mentions_24h,mentions_7d,top_intents_24h,sources_24h,best_source,best_title,best_url
+BIO,0.47018260956782065,0.0,0.0,0,0,1,4,GENERAL:0.28,1,,Formation Bio’s China shopping spree continues with $500M biobucks autoimmune pact,
+TECH,0.04180977473449156,0.0,0.0,0,0,0,2,,0,,Halozyme catches M&A wave to snap up Surf Bio in delivery tech deal worth up to $400M,
+RARE,0.01976678847252727,0.0,0.0,0,0,0,4,,0,,STAT+: Startup Altido Therapeutics pursues CAR-T for glioblastoma tumors,
