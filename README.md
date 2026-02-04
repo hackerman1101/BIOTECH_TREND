@@ -1,5 +1,4 @@
 # BIOTECH_TREND
-Below is a ready-to-paste **README.md** you can put at the repo root. It’s written for someone who has never run your project before, and it matches the file list you shared.
 
 ---
 
@@ -30,7 +29,7 @@ After a successful run you should see (examples):
 * `out/trends_v2.csv`
 * `out/ranked_watchlist.csv`
 * alert/digest outputs (depends on your script config)
-
+The out uploaded is an example of what it should look like
 ---
 
 ## Requirements
