@@ -1,0 +1,485 @@
+ticker,cik,security_name,exchange,ETF,Test Issue,company_name,sec_exchange,biopharma_flag,biopharma_reason
+AAPG,2023311,Ascentage Pharma Group International - American Depository Shares,NASDAQ,N,N,ASCENTAGE PHARMA GROUP INTERNATIONAL,Nasdaq,True,keyword_match
+AARD,1774857,"Aardvark Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Aardvark Therapeutics, Inc.",Nasdaq,True,keyword_match
+ABCL,1703057,AbCellera Biologics Inc. - Common Shares,NASDAQ,N,N,AbCellera Biologics Inc.,Nasdaq,True,keyword_match
+ABEO,318306,Abeona Therapeutics Inc. - Common Stock,NASDAQ,N,N,ABEONA THERAPEUTICS INC.,Nasdaq,True,keyword_match
+ABOS,1576885,"Acumen Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"Acumen Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+ABUS,1447028,Arbutus Biopharma Corporation - Common Stock,NASDAQ,N,N,Arbutus Biopharma Corp,Nasdaq,True,keyword_match
+ABVC,1173313,"ABVC BioPharma, Inc. - Common Stock",NASDAQ,N,N,"ABVC BIOPHARMA, INC.",Nasdaq,True,keyword_match
+ACAD,1070494,ACADIA Pharmaceuticals Inc. - Common Stock,NASDAQ,N,N,ACADIA PHARMACEUTICALS INC,Nasdaq,True,keyword_match
+ACET,1720580,"Adicet Bio, Inc. - Common Stock",NASDAQ,N,N,"Adicet Bio, Inc.",Nasdaq,True,keyword_match
+ACHV,949858,"Achieve Life Sciences, Inc.  - Common Shares",NASDAQ,N,N,"ACHIEVE LIFE SCIENCES, INC.",Nasdaq,True,keyword_match
+ACRS,1557746,"Aclaris Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Aclaris Therapeutics, Inc.",Nasdaq,True,keyword_match
+ACRV,1781174,"Acrivon Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Acrivon Therapeutics, Inc.",Nasdaq,True,keyword_match
+ACTU,1652935,"Actuate Therapeutics, Inc. - Common stock",NASDAQ,N,N,"ACTUATE THERAPEUTICS, INC.",Nasdaq,True,keyword_match
+ACXP,1736243,"Acurx Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"Acurx Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+ADCT,1771910,ADC Therapeutics SA Common Shares,N,N,N,ADC Therapeutics SA,NYSE,True,keyword_match
+ADIL,1513525,"Adial Pharmaceuticals, Inc - Common Stock",NASDAQ,N,N,"ADIAL PHARMACEUTICALS, INC.",Nasdaq,True,keyword_match
+ADMA,1368514,ADMA Biologics Inc - Common Stock,NASDAQ,N,N,"ADMA BIOLOGICS, INC.",Nasdaq,True,keyword_match
+ADPT,1478320,Adaptive Biotechnologies Corporation - Common Stock,NASDAQ,N,N,Adaptive Biotechnologies Corp,Nasdaq,True,keyword_match
+ADVB,1941029,Advanced Biomed Inc. - Common Stock,NASDAQ,N,N,Advanced Biomed Inc.,Nasdaq,True,keyword_match
+AEON,1837607,"AEON Biopharma, Inc. Class A Common Stock",A,N,N,"AEON Biopharma, Inc.",NYSE,True,keyword_match
+AGIO,1439222,"Agios Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"AGIOS PHARMACEUTICALS, INC.",Nasdaq,True,keyword_match
+AKBA,1517022,"Akebia Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Akebia Therapeutics, Inc.",Nasdaq,True,keyword_match
+AKTS,2035832,"Aktis Oncology, Inc. - Common stock",NASDAQ,N,N,"Aktis Oncology, Inc.",Nasdaq,True,keyword_match
+ALDX,1341235,"Aldeyra Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Aldeyra Therapeutics, Inc.",Nasdaq,True,keyword_match
+ALGS,1799448,"Aligos Therapeutics, Inc. - Common stock",NASDAQ,N,N,"Aligos Therapeutics, Inc.",Nasdaq,True,keyword_match
+ALLO,1737287,"Allogene Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Allogene Therapeutics, Inc.",Nasdaq,True,keyword_match
+ALLR,1860657,"Allarity Therapeutics, Inc. - Common stock",NASDAQ,N,N,"Allarity Therapeutics, Inc.",Nasdaq,True,keyword_match
+ALNY,1178670,"Alnylam Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"ALNYLAM PHARMACEUTICALS, INC.",Nasdaq,True,keyword_match
+ALXO,1810182,ALX Oncology Holdings Inc. - Common Stock,NASDAQ,N,N,ALX ONCOLOGY HOLDINGS INC,Nasdaq,True,keyword_match
+AMLX,1658551,"Amylyx Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"Amylyx Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+AMPH,1297184,"Amphastar Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"Amphastar Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+AMRX,1723128,"Amneal Pharmaceuticals, Inc. - Class A Common Stock",NASDAQ,N,N,"Amneal Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+ANAB,1370053,"AnaptysBio, Inc. - Common Stock",NASDAQ,N,N,"ANAPTYSBIO, INC",Nasdaq,True,keyword_match
+ANEB,1815974,"Anebulo Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"Anebulo Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+ANIK,898437,Anika Therapeutics Inc. - Common Stock,NASDAQ,N,N,"Anika Therapeutics, Inc.",Nasdaq,True,keyword_match
+ANIP,1023024,"ANI Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,ANI PHARMACEUTICALS INC,Nasdaq,True,keyword_match
+ANIX,715446,"Anixa Biosciences, Inc. - Common Stock",NASDAQ,N,N,Anixa Biosciences Inc,Nasdaq,True,keyword_match
+ANTX,1880438,"AN2 Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"AN2 Therapeutics, Inc.",Nasdaq,True,keyword_match
+ANVS,1477845,"Annovis Bio, Inc. Common Stock",N,N,N,"Annovis Bio, Inc.",NYSE,True,keyword_match
+APGE,1974640,"Apogee Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Apogee Therapeutics, Inc.",Nasdaq,True,keyword_match
+APLS,1492422,"Apellis Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"Apellis Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+APLT,1697532,"Applied Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Applied Therapeutics, Inc.",Nasdaq,True,keyword_match
+APRE,1781983,"Aprea Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Aprea Therapeutics, Inc.",Nasdaq,True,keyword_match
+APUS,1894525,"Apimeds Pharmaceuticals US, Inc. Common Stock",A,N,N,"Apimeds Pharmaceuticals US, Inc.",NYSE,True,keyword_match
+APVO,1671584,Aptevo Therapeutics Inc. - Common Stock,NASDAQ,N,N,Aptevo Therapeutics Inc.,Nasdaq,True,keyword_match
+AQST,1398733,"Aquestive Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Aquestive Therapeutics, Inc.",Nasdaq,True,keyword_match
+ARCT,1768224,Arcturus Therapeutics Holdings Inc. - Common Stock,NASDAQ,N,N,Arcturus Therapeutics Holdings Inc.,Nasdaq,True,keyword_match
+ARMP,921114,"Armata Pharmaceuticals, Inc. Common Stock",A,N,N,"Armata Pharmaceuticals, Inc.",NYSE,True,keyword_match
+ARQT,1787306,"Arcutis Biotherapeutics, Inc. - Common stock",NASDAQ,N,N,"Arcutis Biotherapeutics, Inc.",Nasdaq,True,keyword_match
+ARTL,1621221,"Artelo Biosciences, Inc. - Common Stock",NASDAQ,N,N,"ARTELO BIOSCIENCES, INC.",Nasdaq,True,keyword_match
+ARTV,1817241,"Artiva Biotherapeutics, Inc. - Common Stock",NASDAQ,N,N,"Artiva Biotherapeutics, Inc.",Nasdaq,True,keyword_match
+ARWR,879407,"Arrowhead Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"ARROWHEAD PHARMACEUTICALS, INC.",Nasdaq,True,keyword_match
+ASBP,1847345,"Aspire Biopharma Holdings, Inc.  - Common Stock",NASDAQ,N,N,"Aspire Biopharma Holdings, Inc.",Nasdaq,True,keyword_match
+ASMB,1426800,"Assembly Biosciences, Inc. - Common Stock",NASDAQ,N,N,"ASSEMBLY BIOSCIENCES, INC.",Nasdaq,True,keyword_match
+ATNM,1388320,"Actinium Pharmaceuticals, Inc. (Delaware) Common Stock",A,N,N,"Actinium Pharmaceuticals, Inc.",NYSE,True,keyword_match
+ATOS,1488039,"Atossa Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"ATOSSA THERAPEUTICS, INC.",Nasdaq,True,keyword_match
+ATRA,1604464,"Atara Biotherapeutics, Inc. - Common Stock",NASDAQ,N,N,"Atara Biotherapeutics, Inc.",Nasdaq,True,keyword_match
+ATXS,1454789,"Astria Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Astria Therapeutics, Inc.",Nasdaq,True,keyword_match
+ATYR,1339970,"aTyr Pharma, Inc. - Common Stock",NASDAQ,N,N,aTYR PHARMA INC,Nasdaq,True,keyword_match
+AUPH,1600620,Aurinia Pharmaceuticals Inc - Common Shares,NASDAQ,N,N,Aurinia Pharmaceuticals Inc.,Nasdaq,True,keyword_match
+AURA,1501796,"Aura Biosciences, Inc. - Common Stock",NASDAQ,N,N,"Aura Biosciences, Inc.",Nasdaq,True,keyword_match
+AVBP,1868279,"ArriVent BioPharma, Inc. - Common Stock",NASDAQ,N,N,"ArriVent BioPharma, Inc.",Nasdaq,True,keyword_match
+AVDL,1012477,Avadel Pharmaceuticals plc - Ordinary Share,NASDAQ,N,N,AVADEL PHARMACEUTICALS PLC,Nasdaq,True,keyword_match
+AVIR,1593899,"Atea Pharmaceuticals, Inc. - common stock",NASDAQ,N,N,"Atea Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+AVTX,1534120,"Avalo Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Avalo Therapeutics, Inc.",Nasdaq,True,keyword_match
+AVXL,1314052,Anavex Life Sciences Corp. - Common Stock,NASDAQ,N,N,ANAVEX LIFE SCIENCES CORP.,Nasdaq,True,keyword_match
+AXSM,1579428,"Axsome Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Axsome Therapeutics, Inc.",Nasdaq,True,keyword_match
+AYTU,1385818,"Aytu BioPharma, Inc.  - Common Stock",NASDAQ,N,N,"AYTU BIOPHARMA, INC",Nasdaq,True,keyword_match
+BBIO,1743881,"BridgeBio Pharma, Inc. - Common Stock",NASDAQ,N,N,"BridgeBio Pharma, Inc.",Nasdaq,True,keyword_match
+BBLG,1419554,Bone Biologics Corp - Common Stock,NASDAQ,N,N,Bone Biologics Corp,Nasdaq,True,keyword_match
+BBNX,1674632,"Beta Bionics, Inc. - Common Stock",NASDAQ,N,N,"Beta Bionics, Inc.",Nasdaq,True,keyword_match
+BBOT,1869105,"BridgeBio Oncology Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"BridgeBio Oncology Therapeutics, Inc.",Nasdaq,True,keyword_match
+BCAB,1826892,"BioAtla, Inc. - Common Stock",NASDAQ,N,N,"BioAtla, Inc.",Nasdaq,True,keyword_match
+BCAX,2023658,Bicara Therapeutics Inc. - Common Stock,NASDAQ,N,N,Bicara Therapeutics Inc.,Nasdaq,True,keyword_match
+BCDA,925741,"BioCardia, Inc. - Common Stock",NASDAQ,N,N,"BioCardia, Inc.",Nasdaq,True,keyword_match
+BCRX,882796,"BioCryst Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,BIOCRYST PHARMACEUTICALS INC,Nasdaq,True,keyword_match
+BCTX,1610820,BriaCell Therapeutics Corp. - Common Shares,NASDAQ,N,N,BriaCell Therapeutics Corp.,Nasdaq,True,keyword_match
+BDSX,1439725,"Biodesix, Inc. - Common Stock",NASDAQ,N,N,BIODESIX INC,Nasdaq,True,keyword_match
+BDTX,1701541,"Black Diamond Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Black Diamond Therapeutics, Inc.",Nasdaq,True,keyword_match
+BEAM,1745999,Beam Therapeutics Inc. - Common Stock,NASDAQ,N,N,Beam Therapeutics Inc.,Nasdaq,True,keyword_match
+BFRI,1858685,Biofrontera Inc. - Common Stock,NASDAQ,N,N,Biofrontera Inc.,Nasdaq,True,keyword_match
+BGLC,1737523,BioNexus Gene Lab Corp - Common stock,NASDAQ,N,N,BioNexus Gene Lab Corp,Nasdaq,True,keyword_match
+BGMS,1130166,"Bio Green Med Solution, Inc. - Common Stock",NASDAQ,N,N,"Bio Green Med Solution, Inc.",Nasdaq,True,keyword_match
+BHST,1723464,BioHarvest Sciences Inc. - Common Stock,NASDAQ,N,N,BIOHARVEST SCIENCES INC.,Nasdaq,True,keyword_match
+BHVN,1935979,Biohaven Ltd. Common Shares ,N,N,N,Biohaven Ltd.,NYSE,True,keyword_match
+BIAF,1712762,"bioAffinity Technologies, Inc. - Common Stock",NASDAQ,N,N,"bioAffinity Technologies, Inc.",Nasdaq,True,keyword_match
+BIIB,875045,Biogen Inc. - Common Stock,NASDAQ,N,N,BIOGEN INC.,Nasdaq,True,keyword_match
+BIO,12208,"Bio-Rad Laboratories, Inc. Class A Common Stock",N,N,N,"BIO-RAD LABORATORIES, INC.",NYSE,True,keyword_match
+BIO.B,,"Bio-Rad Laboratories, Inc. Class B  Common Stock",N,N,N,,,True,keyword_match
+BIOA,1709941,"BioAge Labs, Inc. - Common Stock",NASDAQ,N,N,"BioAge Labs, Inc.",Nasdaq,True,keyword_match
+BIOX,1769484,Bioceres Crop Solutions Corp. - Ordinary Shares,NASDAQ,N,N,Bioceres Crop Solutions Corp.,Nasdaq,True,keyword_match
+BIVI,1580149,BioVie Inc. - Common stock,NASDAQ,N,N,BIOVIE INC.,Nasdaq,True,keyword_match
+BKYI,1019034,"BIO-key International, Inc. - Common Stock",NASDAQ,N,N,BIO KEY INTERNATIONAL INC,Nasdaq,True,keyword_match
+BLFS,834365,"BioLife Solutions, Inc. - Common Stock",NASDAQ,N,N,BIOLIFE SOLUTIONS INC,Nasdaq,True,keyword_match
+BMEA,1840439,"Biomea Fusion, Inc. - Common Stock",NASDAQ,N,N,"Biomea Fusion, Inc.",Nasdaq,True,keyword_match
+BMRA,73290,"Biomerica, Inc. - Common Stock",NASDAQ,N,N,BIOMERICA INC,Nasdaq,True,keyword_match
+BMRN,1048477,BioMarin Pharmaceutical Inc. - Common Stock,NASDAQ,N,N,BIOMARIN PHARMACEUTICAL INC,Nasdaq,True,keyword_match
+BNGO,1411690,"Bionano Genomics, Inc. - Common Stock",NASDAQ,N,N,"Bionano Genomics, Inc.",Nasdaq,True,keyword_match
+BNTC,1808898,Benitec Biopharma Inc. - Common Stock,NASDAQ,N,N,Benitec Biopharma Inc.,Nasdaq,True,keyword_match
+BOLD,1782303,"Boundless Bio, Inc. - Common Stock",NASDAQ,N,N,"Boundless Bio, Inc.",Nasdaq,True,keyword_match
+BOLT,1641281,"Bolt Biotherapeutics, Inc. - Common Stock",NASDAQ,N,N,"Bolt Biotherapeutics, Inc.",Nasdaq,True,keyword_match
+BRTX,1505497,"BioRestorative Therapies, Inc. - Common Stock",NASDAQ,N,N,"BioRestorative Therapies, Inc.",Nasdaq,True,keyword_match
+BTAI,1720893,"BioXcel Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"BioXcel Therapeutics, Inc.",Nasdaq,True,keyword_match
+BTMD,1819253,Biote Corp. - Class A common stock,NASDAQ,N,N,biote Corp.,Nasdaq,True,keyword_match
+BVS,1665988,Bioventus Inc. - Class A Common Stock,NASDAQ,N,N,Bioventus Inc.,Nasdaq,True,keyword_match
+BYAH,1986247,"Park Ha Biological Technology Co., Ltd. - ordinary shares",NASDAQ,N,N,"Park Ha Biological Technology Co., Ltd.",Nasdaq,True,keyword_match
+CABA,1759138,"Cabaletta Bio, Inc. - Common Stock",NASDAQ,N,N,"Cabaletta Bio, Inc.",Nasdaq,True,keyword_match
+CADL,1841387,"Candel Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Candel Therapeutics, Inc.",Nasdaq,True,keyword_match
+CAI,2019410,"Caris Life Sciences, Inc. - Common Stock",NASDAQ,N,N,"Caris Life Sciences, Inc.",Nasdaq,True,keyword_match
+CAMP,1736730,CAMP4 Therapeutics Corporation - Common Stock,NASDAQ,N,N,Camp4 Therapeutics Corp,Nasdaq,True,keyword_match
+CAPR,1133869,"Capricor Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"CAPRICOR THERAPEUTICS, INC.",Nasdaq,True,keyword_match
+CASI,1962738,"CASI Pharmaceuticals, Inc. - Ordinary Shares",NASDAQ,N,N,"CASI Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+CATX,728387,"Perspective Therapeutics, Inc. Common Stock",A,N,N,"Perspective Therapeutics, Inc.",NYSE,True,keyword_match
+CBIO,1253689,"Crescent Biopharma, Inc. - Common Stock",NASDAQ,N,N,"CRESCENT BIOPHARMA, INC.",Nasdaq,True,keyword_match
+CCCC,1662579,"C4 Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"C4 Therapeutics, Inc.",Nasdaq,True,keyword_match
+CGEM,1789972,"Cullinan Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Cullinan Therapeutics, Inc.",Nasdaq,True,keyword_match
+CGON,1991792,"CG Oncology, Inc. - Common stock",NASDAQ,N,N,"CG Oncology, Inc.",Nasdaq,True,keyword_match
+CGTX,1455365,"Cognition Therapeutics, Inc. - Common Stock",NASDAQ,N,N,COGNITION THERAPEUTICS INC,Nasdaq,True,keyword_match
+CHRS,1512762,"Coherus Oncology, Inc. - Common Stock",NASDAQ,N,N,"Coherus Oncology, Inc.",Nasdaq,True,keyword_match
+CLDI,1855485,"Calidi Biotherapeutics, Inc. Common Stock",A,N,N,"Calidi Biotherapeutics, Inc.",NYSE,True,keyword_match
+CLDX,744218,"Celldex Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Celldex Therapeutics, Inc.",Nasdaq,True,keyword_match
+CLGN,1631487,CollPlant Biotechnologies Ltd. - Ordinary Shares,NASDAQ,N,N,CollPlant Biotechnologies Ltd,Nasdaq,True,keyword_match
+CLRB,1279704,"Cellectar Biosciences, Inc. - Common Stock",NASDAQ,N,N,"Cellectar Biosciences, Inc.",Nasdaq,True,keyword_match
+CLYM,1768446,"Climb Bio, Inc. - Common Stock",NASDAQ,N,N,"Climb Bio, Inc.",Nasdaq,True,keyword_match
+CMPX,1738021,"Compass Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Compass Therapeutics, Inc.",Nasdaq,True,keyword_match
+CNSP,1729427,"CNS Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"CNS Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+CNTB,1835268,Connect Biopharma Holdings Limited - Ordinary Shares,NASDAQ,N,N,Connect Biopharma Holdings Ltd,Nasdaq,True,keyword_match
+CNTX,1842952,Context Therapeutics Inc. - Common Stock,NASDAQ,N,N,Context Therapeutics Inc.,Nasdaq,True,keyword_match
+COCP,1412486,"Cocrystal Pharma, Inc. - Common Stock",NASDAQ,N,N,"Cocrystal Pharma, Inc.",Nasdaq,True,keyword_match
+COEP,1759186,"Coeptis Therapeutics Holdings, Inc. - Common Stock",NASDAQ,N,N,"Coeptis Therapeutics Holdings, Inc.",Nasdaq,True,keyword_match
+COGT,1622229,"Cogent Biosciences, Inc. - Common Stock",NASDAQ,N,N,"Cogent Biosciences, Inc.",Nasdaq,True,keyword_match
+COLL,1267565,"Collegium Pharmaceutical, Inc. - Common Stock",NASDAQ,N,N,"COLLEGIUM PHARMACEUTICAL, INC",Nasdaq,True,keyword_match
+CORT,1088856,Corcept Therapeutics Incorporated - Common Stock,NASDAQ,N,N,CORCEPT THERAPEUTICS INC,Nasdaq,True,keyword_match
+COYA,1835022,"Coya Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Coya Therapeutics, Inc.",Nasdaq,True,keyword_match
+CPHI,1106644,"China Pharma Holdings, Inc. Common Stock",A,N,N,"CHINA PHARMA HOLDINGS, INC.",NYSE,True,keyword_match
+CPIX,1087294,Cumberland Pharmaceuticals Inc. - Common Stock,NASDAQ,N,N,CUMBERLAND PHARMACEUTICALS INC,Nasdaq,True,keyword_match
+CPRX,1369568,"Catalyst Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"CATALYST PHARMACEUTICALS, INC.",Nasdaq,True,keyword_match
+CRBP,1595097,"Corbus Pharmaceuticals Holdings, Inc. - Common Stock",NASDAQ,N,N,"Corbus Pharmaceuticals Holdings, Inc.",Nasdaq,True,keyword_match
+CRBU,1619856,"Caribou Biosciences, Inc. - Common Stock",NASDAQ,N,N,"Caribou Biosciences, Inc.",Nasdaq,True,keyword_match
+CRDF,1213037,"Cardiff Oncology, Inc. - Common Stock",NASDAQ,N,N,"Cardiff Oncology, Inc.",Nasdaq,True,keyword_match
+CRDL,1702123,Cardiol Therapeutics Inc. - Class A Common Shares,NASDAQ,N,N,Cardiol Therapeutics Inc.,Nasdaq,True,keyword_match
+CRNX,1658247,"Crinetics Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"Crinetics Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+CRSP,1674416,CRISPR Therapeutics AG - Common Shares,NASDAQ,N,N,CRISPR Therapeutics AG,Nasdaq,True,keyword_match
+CRVS,1626971,"Corvus Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"Corvus Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+CSBR,771856,"Champions Oncology, Inc. - Common Stock",NASDAQ,N,N,"CHAMPIONS ONCOLOGY, INC.",Nasdaq,True,keyword_match
+CSTL,1447362,"Castle Biosciences, Inc. - Common stock",NASDAQ,N,N,CASTLE BIOSCIENCES INC,Nasdaq,True,keyword_match
+CTKB,1831915,"Cytek Biosciences, Inc. - Common Stock",NASDAQ,N,N,"Cytek Biosciences, Inc.",Nasdaq,True,keyword_match
+CTMX,1501989,"CytomX Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"CytomX Therapeutics, Inc.",Nasdaq,True,keyword_match
+CTNM,1855175,"Contineum Therapeutics, Inc. - Common stock",NASDAQ,N,N,"Contineum Therapeutics, Inc.",Nasdaq,True,keyword_match
+CTOR,1851484,"Citius Oncology, Inc.  - Common Stock",NASDAQ,N,N,"CITIUS ONCOLOGY, INC.",Nasdaq,True,keyword_match
+CTXR,1506251,"Citius Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"Citius Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+CUE,1645460,"Cue Biopharma, Inc. - Common Stock",NASDAQ,N,N,"Cue Biopharma, Inc.",Nasdaq,True,keyword_match
+CURX,2025942,Curanex Pharmaceuticals Inc - Common Stock,NASDAQ,N,N,Curanex Pharmaceuticals Inc,Nasdaq,True,keyword_match
+CVKD,1937993,"Cadrenal Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Cadrenal Therapeutics, Inc.",Nasdaq,True,keyword_match
+CYCN,1755237,"Cyclerion Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Cyclerion Therapeutics, Inc.",Nasdaq,True,keyword_match
+DARE,1401914,"Dare Bioscience, Inc. - Common Stock",NASDAQ,N,N,"Dare Bioscience, Inc.",Nasdaq,True,keyword_match
+DAWN,1845337,"Day One Biopharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"Day One Biopharmaceuticals, Inc.",Nasdaq,True,keyword_match
+DCOY,1615219,Decoy Therapeutics Inc. - Common Stock,NASDAQ,N,N,"Salarius Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+DFTX,1813814,"Definium Therapeutics, Inc.  - Common Shares",NASDAQ,N,N,Mind Medicine (MindMed) Inc.,Nasdaq,True,keyword_match
+DMAC,1401040,DiaMedica Therapeutics Inc. - Common Stock,NASDAQ,N,N,DiaMedica Therapeutics Inc.,Nasdaq,True,keyword_match
+DNA,1830214,"Ginkgo Bioworks Holdings, Inc. Class A Common Stock",N,N,N,"Ginkgo Bioworks Holdings, Inc.",NYSE,True,keyword_match
+DNLI,1714899,Denali Therapeutics Inc. - Common Stock,NASDAQ,N,N,Denali Therapeutics Inc.,Nasdaq,True,keyword_match
+DNTH,1690585,"Dianthus Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Dianthus Therapeutics, Inc. /DE/",Nasdaq,True,keyword_match
+DRMA,1853816,"Dermata Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Dermata Therapeutics, Inc.",Nasdaq,True,keyword_match
+DSGN,1807120,"Design Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Design Therapeutics, Inc.",Nasdaq,True,keyword_match
+DTIL,1357874,"Precision BioSciences, Inc. - Common Stock",NASDAQ,N,N,PRECISION BIOSCIENCES INC,Nasdaq,True,keyword_match
+DWTX,1818844,"Dogwood Therapeutics, Inc.  - Common Stock",NASDAQ,N,N,"Dogwood Therapeutics, Inc.",Nasdaq,True,keyword_match
+DYN,1818794,"Dyne Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Dyne Therapeutics, Inc.",Nasdaq,True,keyword_match
+EBS,1367644,Emergent BioSolutions Inc. Common Stock,N,N,N,Emergent BioSolutions Inc.,NYSE,True,keyword_match
+EDSA,1540159,"Edesa Biotech, Inc. - Common Shares",NASDAQ,N,N,"Edesa Biotech, Inc.",Nasdaq,True,keyword_match
+EKSO,1549084,"Ekso Bionics Holdings, Inc. - Common Stock",NASDAQ,N,N,"EKSO BIONICS HOLDINGS, INC.",Nasdaq,True,keyword_match
+ELDN,1404281,"Eledon Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"Eledon Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+ELTX,1601485,"Elicio Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Elicio Therapeutics, Inc.",Nasdaq,True,keyword_match
+ELVN,1672619,"Enliven Therapeutics, Inc.  - Common Stock",NASDAQ,N,N,"Enliven Therapeutics, Inc.",Nasdaq,True,keyword_match
+ENLV,1596812,Enlivex Therapeutics Ltd. - Ordinary Shares,NASDAQ,N,N,Enlivex Therapeutics Ltd.,Nasdaq,True,keyword_match
+ENSC,1716947,"Ensysce Biosciences, Inc. - Common Stock",NASDAQ,N,N,"Ensysce Biosciences, Inc.",Nasdaq,True,keyword_match
+ENTA,1177648,"Enanta Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,ENANTA PHARMACEUTICALS INC,Nasdaq,True,keyword_match
+ENTX,1638097,Entera Bio Ltd. - Ordinary Shares,NASDAQ,N,N,Entera Bio Ltd.,Nasdaq,True,keyword_match
+ENVB,890821,"Enveric Biosciences, Inc.  - Common Stock",NASDAQ,N,N,"Enveric Biosciences, Inc.",Nasdaq,True,keyword_match
+EPRX,1581178,Eupraxia Pharmaceuticals Inc. - Common Stock,NASDAQ,N,N,EUPRAXIA PHARMACEUTICALS INC.,Nasdaq,True,keyword_match
+ERNA,748592,Ernexa Therapeutics Inc. - Common Stock,NASDAQ,N,N,Ernexa Therapeutics Inc.,Nasdaq,True,keyword_match
+ESLA,1844417,"Estrella Immunopharma, Inc. - Common Stock",NASDAQ,N,N,"Estrella Immunopharma, Inc.",Nasdaq,True,keyword_match
+ESPR,1434868,"Esperion Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Esperion Therapeutics, Inc.",Nasdaq,True,keyword_match
+ETON,1710340,"Eton Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"Eton Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+EWTX,1710072,"Edgewise Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Edgewise Therapeutics, Inc.",Nasdaq,True,keyword_match
+FATE,1434316,"Fate Therapeutics, Inc. - Common Stock",NASDAQ,N,N,FATE THERAPEUTICS INC,Nasdaq,True,keyword_match
+FBIO,1429260,"Fortress Biotech, Inc. - Common Stock",NASDAQ,N,N,"Fortress Biotech, Inc.",Nasdaq,True,keyword_match
+FBLG,1958777,"FibroBiologics, Inc. - Common Stock",NASDAQ,N,N,"FibroBiologics, Inc.",Nasdaq,True,keyword_match
+FBRX,1419041,"Forte Biosciences, Inc.  - Common Stock",NASDAQ,N,N,"Forte Biosciences, Inc.",Nasdaq,True,keyword_match
+FDMT,1650648,"4D Molecular Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"4D Molecular Therapeutics, Inc.",Nasdaq,True,keyword_match
+FENC,1211583,Fennec Pharmaceuticals Inc. - Common Stock,NASDAQ,N,N,FENNEC PHARMACEUTICALS INC.,Nasdaq,True,keyword_match
+FHTX,1822462,Foghorn Therapeutics Inc. - Common Stock,NASDAQ,N,N,Foghorn Therapeutics Inc.,Nasdaq,True,keyword_match
+FOLD,1178879,"Amicus Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"AMICUS THERAPEUTICS, INC.",Nasdaq,True,keyword_match
+FULC,1680581,"Fulcrum Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Fulcrum Therapeutics, Inc.",Nasdaq,True,keyword_match
+GALT,1133416,Galectin Therapeutics Inc. - Common Stock,NASDAQ,N,N,GALECTIN THERAPEUTICS INC,Nasdaq,True,keyword_match
+GANX,1819411,"Gain Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Gain Therapeutics, Inc.",Nasdaq,True,keyword_match
+GBIO,1733294,Generation Bio Co. - Common stock,NASDAQ,N,N,Generation Bio Co.,Nasdaq,True,keyword_match
+GDTC,1873093,CytoMed Therapeutics Limited - Ordinary Shares,NASDAQ,N,N,CytoMed Therapeutics Ltd,Nasdaq,True,keyword_match
+GLMD,1595353,Galmed Pharmaceuticals Ltd. - Ordinary Shares,NASDAQ,N,N,Galmed Pharmaceuticals Ltd.,Nasdaq,True,keyword_match
+GLUE,1826457,"Monte Rosa Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Monte Rosa Therapeutics, Inc.",Nasdaq,True,keyword_match
+GOSS,1728117,"Gossamer Bio, Inc. - Common Stock",NASDAQ,N,N,"Gossamer Bio, Inc.",Nasdaq,True,keyword_match
+GRCE,1444192,"Grace Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Grace Therapeutics, Inc.",Nasdaq,True,keyword_match
+GRDN,1802255,"Guardian Pharmacy Services, Inc. Class A Common Stock",N,N,N,"Guardian Pharmacy Services, Inc.",NYSE,True,keyword_match
+GRI,1824293,"GRI Bio, Inc. - Common Stock",NASDAQ,N,N,"GRI Bio, Inc.",Nasdaq,True,keyword_match
+GTBP,109657,"GT Biopharma, Inc. - Common Stock",NASDAQ,N,N,"GT Biopharma, Inc.",Nasdaq,True,keyword_match
+GYRE,1124105,"Gyre Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"GYRE THERAPEUTICS, INC.",Nasdaq,True,keyword_match
+HALO,1159036,"Halozyme Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"HALOZYME THERAPEUTICS, INC.",Nasdaq,True,keyword_match
+HBIO,1123494,"Harvard Bioscience, Inc. - Common Stock",NASDAQ,N,N,HARVARD BIOSCIENCE INC,Nasdaq,True,keyword_match
+HCWB,1828673,HCW Biologics Inc. - Common Stock,NASDAQ,N,N,HCW Biologics Inc.,Nasdaq,True,keyword_match
+HKPD,2007702,"Cellyan Biotechnology Co., Ltd  - Class A Ordinary Shares",NASDAQ,N,N,"Cellyan Biotechnology Co., Ltd",Nasdaq,True,keyword_match
+HOTH,1711786,"Hoth Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Hoth Therapeutics, Inc.",Nasdaq,True,keyword_match
+HOWL,1785530,"Werewolf Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Werewolf Therapeutics, Inc.",Nasdaq,True,keyword_match
+HQL,884121,abrdn Life Sciences Investors Shares of Beneficial Interest,N,N,N,abrdn Life Sciences Investors,NYSE,True,keyword_match
+HRMY,1802665,"Harmony Biosciences Holdings, Inc. - Common Stock",NASDAQ,N,N,"Harmony Biosciences Holdings, Inc.",Nasdaq,True,keyword_match
+HRTX,818033,"Heron Therapeutics, Inc.   - Common Stock",NASDAQ,N,N,"HERON THERAPEUTICS, INC. /DE/",Nasdaq,True,keyword_match
+HURA,1498382,"TuHURA Biosciences, Inc. - Common Stock",NASDAQ,N,N,"TuHURA Biosciences, Inc./NV",Nasdaq,True,keyword_match
+IBIO,1420720,"iBio, Inc. - Common Stock",NASDAQ,N,N,"iBio, Inc.",Nasdaq,True,keyword_match
+IBO,1834105,"Impact BioMedical, Inc. Common Stock",A,N,N,IMPACT BIOMEDICAL INC.,NYSE,True,keyword_match
+IBRX,0001326110,,,,,,,,
+IDYA,1676725,"IDEAYA Biosciences, Inc. - Common Stock",NASDAQ,N,N,"IDEAYA Biosciences, Inc.",Nasdaq,True,keyword_match
+IGC,1326205,"IGC Pharma, Inc. Common Stock",A,N,N,"IGC Pharma, Inc.",NYSE,True,keyword_match
+IKT,1750149,"Inhibikase Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Inhibikase Therapeutics, Inc.",Nasdaq,True,keyword_match
+IMA,1835579,"ImageneBio, Inc. - Common Stock",NASDAQ,N,N,"ImageneBio, Inc.",Nasdaq,True,keyword_match
+IMMX,1873835,"Immix Biopharma, Inc. - Common Stock",NASDAQ,N,N,"Immix Biopharma, Inc.",Nasdaq,True,keyword_match
+INAB,1740279,"IN8bio, Inc. - Common Stock",NASDAQ,N,N,"IN8BIO, INC.",Nasdaq,True,keyword_match
+INBS,1725430,Intelligent Bio Solutions Inc.  - Common Stock,NASDAQ,N,N,INTELLIGENT BIO SOLUTIONS INC.,Nasdaq,True,keyword_match
+INBX,2007919,"Inhibrx Biosciences, Inc. - Common Stock",NASDAQ,N,N,"Inhibrx Biosciences, Inc.",Nasdaq,True,keyword_match
+INDP,1857044,"Indaptus Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Indaptus Therapeutics, Inc.",Nasdaq,True,keyword_match
+INKT,1840229,"MiNK Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"MiNK Therapeutics, Inc.",Nasdaq,True,keyword_match
+INM,1728328,InMed Pharmaceuticals Inc. - Common Shares,NASDAQ,N,N,InMed Pharmaceuticals Inc.,Nasdaq,True,keyword_match
+INMB,1711754,INmune Bio Inc. - Common stock,NASDAQ,N,N,"Inmune Bio, Inc.",Nasdaq,True,keyword_match
+INO,1055726,"Inovio Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"INOVIO PHARMACEUTICALS, INC.",Nasdaq,True,keyword_match
+INTS,1567264,"Intensity Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"INTENSITY THERAPEUTICS, INC.",Nasdaq,True,keyword_match
+IOBT,1865494,"IO Biotech, Inc. - Common Stock",NASDAQ,N,N,"IO Biotech, Inc.",Nasdaq,True,keyword_match
+IONS,874015,"Ionis Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,IONIS PHARMACEUTICALS INC,Nasdaq,True,keyword_match
+IOVA,1425205,"Iovance Biotherapeutics, Inc. - Common Stock",NASDAQ,N,N,"IOVANCE BIOTHERAPEUTICS, INC.",Nasdaq,True,keyword_match
+IPSC,1850119,"Century Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Century Therapeutics, Inc.",Nasdaq,True,keyword_match
+IRWD,1446847,"Ironwood Pharmaceuticals, Inc. - Class A Common Stock",NASDAQ,N,N,IRONWOOD PHARMACEUTICALS INC,Nasdaq,True,keyword_match
+ITRM,1659323,Iterum Therapeutics plc - Ordinary Share,NASDAQ,N,N,Iterum Therapeutics plc,Nasdaq,True,keyword_match
+JANX,1817713,"Janux Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Janux Therapeutics, Inc.",Nasdaq,True,keyword_match
+JAZZ,1232524,Jazz Pharmaceuticals plc - Ordinary Shares,NASDAQ,N,N,Jazz Pharmaceuticals plc,Nasdaq,True,keyword_match
+JBIO,1798749,"Jade Biosciences, Inc. - Common Stock",NASDAQ,N,N,"Jade Biosciences, Inc.",Nasdaq,True,keyword_match
+JSPR,1788028,"Jasper Therapeutics, Inc. - Class A Common Stock",NASDAQ,N,N,"Jasper Therapeutics, Inc.",Nasdaq,True,keyword_match
+KALA,1479419,"KALA BIO, Inc. - Common Stock",NASDAQ,N,N,"KALA BIO, Inc.",Nasdaq,True,keyword_match
+KALV,1348911,"KalVista Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"KalVista Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+KAPA,1962011,"Kairos Pharma, Ltd. Common Stock",A,N,N,"Kairos Pharma, LTD.",NYSE,True,keyword_match
+KLRS,1754068,"Kalaris Therapeutics, Inc.  - Common Stock",NASDAQ,N,N,"Kalaris Therapeutics, Inc.",Nasdaq,True,keyword_match
+KNSA,1730430,"Kiniksa Pharmaceuticals, Ltd. - Class A Ordinary Shares",NASDAQ,N,N,"Kiniksa Pharmaceuticals International, plc",Nasdaq,True,keyword_match
+KPRX,1372514,"Kiora Pharmaceuticals, Inc.  - Common Stock",NASDAQ,N,N,KIORA PHARMACEUTICALS INC,Nasdaq,True,keyword_match
+KPTI,1503802,Karyopharm Therapeutics Inc. - Common Stock,NASDAQ,N,N,Karyopharm Therapeutics Inc.,Nasdaq,True,keyword_match
+KROS,1664710,"Keros Therapeutics, Inc. - common stock",NASDAQ,N,N,"Keros Therapeutics, Inc.",Nasdaq,True,keyword_match
+KRRO,1703647,"Korro Bio, Inc. - Common Stock",NASDAQ,N,N,"Korro Bio, Inc.",Nasdaq,True,keyword_match
+KRYS,1711279,"Krystal Biotech, Inc. - Common Stock",NASDAQ,N,N,"Krystal Biotech, Inc.",Nasdaq,True,keyword_match
+KTTA,1841330,Pasithea Therapeutics Corp. - Common Stock,NASDAQ,N,N,Pasithea Therapeutics Corp.,Nasdaq,True,keyword_match
+KURA,1422143,"Kura Oncology, Inc. - Common Stock",NASDAQ,N,N,"Kura Oncology, Inc.",Nasdaq,True,keyword_match
+KYMR,1815442,"Kymera Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Kymera Therapeutics, Inc.",Nasdaq,True,keyword_match
+KYNB,921299,"Kyntra Bio, Inc. - Common Stock",NASDAQ,N,N,FIBROGEN INC,Nasdaq,True,keyword_match
+KYTX,1994702,"Kyverna Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Kyverna Therapeutics, Inc.",Nasdaq,True,keyword_match
+KZR,1645666,"Kezar Life Sciences, Inc. - Common Stock",NASDAQ,N,N,"Kezar Life Sciences, Inc.",Nasdaq,True,keyword_match
+LAB,1162194,Standard BioTools Inc. - Common Stock,NASDAQ,N,N,STANDARD BIOTOOLS INC.,Nasdaq,True,keyword_match
+LBRX,1691082,LB Pharmaceuticals Inc - Common Stock,NASDAQ,N,N,LB PHARMACEUTICALS INC,Nasdaq,True,keyword_match
+LCTX,876343,"Lineage Cell Therapeutics, Inc. Common Stock",A,N,N,"Lineage Cell Therapeutics, Inc.",NYSE,True,keyword_match
+LENZ,1815776,"LENZ Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"LENZ Therapeutics, Inc.",Nasdaq,True,keyword_match
+LEXX,1348362,Lexaria Bioscience Corp. - Common Stock,NASDAQ,N,N,Lexaria Bioscience Corp.,Nasdaq,True,keyword_match
+LFCR,1005286,"Lifecore Biomedical, Inc. - Common Stock",NASDAQ,N,N,"LIFECORE BIOMEDICAL, INC. DE",Nasdaq,True,keyword_match
+LGND,886163,Ligand Pharmaceuticals Incorporated - Common Stock,NASDAQ,N,N,LIGAND PHARMACEUTICALS INC,Nasdaq,True,keyword_match
+LIMN,1971387,"Liminatus Pharma, Inc. - Class A Common Stock",NASDAQ,N,N,"Liminatus Pharma, Inc.",Nasdaq,True,keyword_match
+LIXT,1335105,"Lixte Biotechnology Holdings, Inc. - Common Stock",NASDAQ,N,N,"LIXTE BIOTECHNOLOGY HOLDINGS, INC.",Nasdaq,True,keyword_match
+LNAI,1527728,Lunai Bioworks Inc. - Common Stock,NASDAQ,N,N,Lunai Bioworks Inc.,Nasdaq,True,keyword_match
+LONA,1620463,"LeonaBio, Inc. - Common Stock",NASDAQ,N,N,"LeonaBio, Inc.",Nasdaq,True,keyword_match
+LRMR,1374690,"Larimar Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Larimar Therapeutics, Inc.",Nasdaq,True,keyword_match
+LSTA,320017,"Lisata Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"LISATA THERAPEUTICS, INC.",Nasdaq,True,keyword_match
+LTRN,1763950,Lantern Pharma Inc. - Common Stock,NASDAQ,N,N,Lantern Pharma Inc.,Nasdaq,True,keyword_match
+LXEO,1907108,"Lexeo Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Lexeo Therapeutics, Inc.",Nasdaq,True,keyword_match
+LXRX,1062822,"Lexicon Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"LEXICON PHARMACEUTICALS, INC.",Nasdaq,True,keyword_match
+LYEL,1806952,"Lyell Immunopharma, Inc. - Common Stock",NASDAQ,N,N,"Lyell Immunopharma, Inc.",Nasdaq,True,keyword_match
+LYRA,1327273,"Lyra Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Lyra Therapeutics, Inc.",Nasdaq,True,keyword_match
+MAIA,1878313,"MAIA Biotechnology, Inc. Common Stock",A,N,N,"MAIA Biotechnology, Inc.",NYSE,True,keyword_match
+MAZE,1842295,"Maze Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Maze Therapeutics, Inc.",Nasdaq,True,keyword_match
+MBIO,1680048,"Mustang Bio, Inc. - Common Stock",NASDAQ,N,N,"MUSTANG BIO, INC.",Nasdaq,True,keyword_match
+MBRX,1659617,"Moleculin Biotech, Inc. - Common Stock",NASDAQ,N,N,"Moleculin Biotech, Inc.",Nasdaq,True,keyword_match
+MBX,1776111,"MBX Biosciences, Inc. - Common Stock",NASDAQ,N,N,"MBX Biosciences, Inc.",Nasdaq,True,keyword_match
+MCRB,1609809,"Seres Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Seres Therapeutics, Inc.",Nasdaq,True,keyword_match
+MDCX,1997296,Medicus Pharma Ltd. - Common Stock,NASDAQ,N,N,Medicus Pharma Ltd.,Nasdaq,True,keyword_match
+MDGL,1157601,"Madrigal Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"MADRIGAL PHARMACEUTICALS, INC.",Nasdaq,True,keyword_match
+MENS,1954488,Jyong Biotech Ltd. - Ordinary shares,NASDAQ,N,N,Jyong Biotech Ltd.,Nasdaq,True,keyword_match
+MGX,1785279,"Metagenomi Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Metagenomi, Inc.",Nasdaq,True,keyword_match
+MIRA,1904286,"MIRA Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"MIRA PHARMACEUTICALS, INC.",Nasdaq,True,keyword_match
+MIRM,1759425,"Mirum Pharmaceuticals, Inc. - common stock",NASDAQ,N,N,"Mirum Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+MIST,1408443,Milestone Pharmaceuticals Inc. - Common Shares,NASDAQ,N,N,Milestone Pharmaceuticals Inc.,Nasdaq,True,keyword_match
+MLTX,1821586,MoonLake Immunotherapeutics - Class A Ordinary Shares,NASDAQ,N,N,MoonLake Immunotherapeutics,Nasdaq,True,keyword_match
+MLYS,1933414,"Mineralys Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Mineralys Therapeutics, Inc.",Nasdaq,True,keyword_match
+MNPR,1645469,Monopar Therapeutics Inc. - Common Stock,NASDAQ,N,N,Monopar Therapeutics,Nasdaq,True,keyword_match
+MPLT,1770069,"MapLight Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"MapLight Therapeutics, Inc.",Nasdaq,True,keyword_match
+MRKR,1094038,"Marker Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Marker Therapeutics, Inc.",Nasdaq,True,keyword_match
+MTNB,1582554,"Matinas Biopharma Holdings, Inc. Common Stock",A,N,N,"Matinas BioPharma Holdings, Inc.",NYSE,True,keyword_match
+MYNZ,1874252,Mainz Biomed N.V. - Ordinary Shares,NASDAQ,N,N,MAINZ BIOMED N.V.,Nasdaq,True,keyword_match
+NAGE,1386570,"Niagen Bioscience, Inc. - Common Stock",NASDAQ,N,N,"Niagen Bioscience, Inc.",Nasdaq,True,keyword_match
+NAMS,1936258,NewAmsterdam Pharma Company N.V. - Ordinary Shares,NASDAQ,N,N,NewAmsterdam Pharma Co N.V.,Nasdaq,True,keyword_match
+NAUT,1808805,"Nautilus Biotechnology, Inc. - Common Stock",NASDAQ,N,N,"Nautilus Biotechnology, Inc.",Nasdaq,True,keyword_match
+NBIX,914475,"Neurocrine Biosciences, Inc. - Common Stock",NASDAQ,N,N,NEUROCRINE BIOSCIENCES INC,Nasdaq,True,keyword_match
+NBTX,1760854,Nanobiotix S.A. - ADSs,NASDAQ,N,N,Nanobiotix S.A.,Nasdaq,True,keyword_match
+NBY,1389545,"NovaBay Pharmaceuticals, Inc. Common Stock",A,N,N,"NovaBay Pharmaceuticals, Inc.",NYSE,True,keyword_match
+NDRA,1681682,ENDRA Life Sciences Inc. - Common Stock,NASDAQ,N,N,ENDRA Life Sciences Inc.,Nasdaq,True,keyword_match
+NEO,1077183,"NeoGenomics, Inc. - Common Stock",NASDAQ,N,N,NEOGENOMICS INC,Nasdaq,True,keyword_match
+NEUP,1191070,Neuphoria Therapeutics Inc. - Common Stock,NASDAQ,N,N,Neuphoria Therapeutics Inc.,Nasdaq,True,keyword_match
+NGEN,1751912,NervGen Pharma Corp. - Common stock,NASDAQ,N,N,NERVGEN PHARMA CORP.,Nasdaq,True,keyword_match
+NKTR,906709,Nektar Therapeutics - Common Stock,NASDAQ,N,N,NEKTAR THERAPEUTICS,Nasdaq,True,keyword_match
+NMRA,1885522,"Neumora Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Neumora Therapeutics, Inc.",Nasdaq,True,keyword_match
+NNNN,1982708,Anbio Biotechnology - Class A Ordinary Shares,NASDAQ,N,N,Anbio Biotechnology,Nasdaq,True,keyword_match
+NRIX,1549595,"Nurix Therapeutics, Inc. - Common stock",NASDAQ,N,N,"Nurix Therapeutics, Inc.",Nasdaq,True,keyword_match
+NRSN,1875091,NeuroSense Therapeutics Ltd. - Ordinary Shares,NASDAQ,N,N,NeuroSense Therapeutics Ltd.,Nasdaq,True,keyword_match
+NRXP,1719406,"NRX Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"NRX Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+NSRX,2029039,Nasus Pharma Ltd. Ordinary Shares,A,N,N,Nasus Pharma Ltd,NYSE,True,keyword_match
+NTLA,1652130,"Intellia Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Intellia Therapeutics, Inc.",Nasdaq,True,keyword_match
+NUVB,1811063,Nuvation Bio Inc. Class A Common Stock,N,N,N,Nuvation Bio Inc.,NYSE,True,keyword_match
+NVCT,1875558,"Nuvectis Pharma, Inc. - Common Stock",NASDAQ,N,N,"Nuvectis Pharma, Inc.",Nasdaq,True,keyword_match
+OACC,2029769,Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share,NASDAQ,N,N,Oaktree Acquisition Corp. III Life Sciences,Nasdaq,True,keyword_match
+OBIO,1814114,"Orchestra BioMed Holdings, Inc. - Ordinary Shares",NASDAQ,N,N,"Orchestra BioMed Holdings, Inc.",Nasdaq,True,keyword_match
+OCUL,1393434,"Ocular Therapeutix, Inc. - Common Stock",NASDAQ,N,N,"OCULAR THERAPEUTIX, INC",Nasdaq,True,keyword_match
+OKUR,1637715,"OnKure Therapeutics, Inc. - Class A Common Stock",NASDAQ,N,N,"OnKure Therapeutics, Inc.",Nasdaq,True,keyword_match
+OKYO,1849296,OKYO Pharma Limited - Ordinary Shares,NASDAQ,N,N,OKYO Pharma Ltd,Nasdaq,True,keyword_match
+OLMA,1750284,"Olema Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"Olema Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+ONCY,1129928,Oncolytics Biotech Inc. - Common Shares,NASDAQ,N,N,ONCOLYTICS BIOTECH INC,Nasdaq,True,keyword_match
+ORIC,1796280,"Oric Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"Oric Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+ORKA,907654,"Oruka Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Oruka Therapeutics, Inc.",Nasdaq,True,keyword_match
+ORMP,1176309,Oramed Pharmaceuticals Inc. - Common Stock,NASDAQ,N,N,ORAMED PHARMACEUTICALS INC.,Nasdaq,True,keyword_match
+OTLK,1649989,"Outlook Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Outlook Therapeutics, Inc.",Nasdaq,True,keyword_match
+OVID,1636651,Ovid Therapeutics Inc. - Common Stock,NASDAQ,N,N,Ovid Therapeutics Inc.,Nasdaq,True,keyword_match
+PACB,1299130,"Pacific Biosciences of California, Inc. - Common Stock",NASDAQ,N,N,"PACIFIC BIOSCIENCES OF CALIFORNIA, INC.",Nasdaq,True,keyword_match
+PALI,1357459,"Palisade Bio, Inc. - Common Stock",NASDAQ,N,N,"PALISADE BIO, INC.",Nasdaq,True,keyword_match
+PASG,1787297,"Passage Bio, Inc. - Common Stock",NASDAQ,N,N,"Passage BIO, Inc.",Nasdaq,True,keyword_match
+PASW,1897532,"Ping An Biomedical Co., Ltd. - Ordinary Shares",NASDAQ,N,N,"Ping An Biomedical Co., Ltd.",Nasdaq,True,keyword_match
+PBM,1985062,Psyence Biomedical Ltd. - Ordinary Shares,NASDAQ,N,N,PSYENCE BIOMEDICAL LTD.,Nasdaq,True,keyword_match
+PBYI,1401667,Puma Biotechnology Inc - Common Stock,NASDAQ,N,N,"PUMA BIOTECHNOLOGY, INC.",Nasdaq,True,keyword_match
+PCRX,1396814,"Pacira BioSciences, Inc. - Common Stock",NASDAQ,N,N,"Pacira BioSciences, Inc.",Nasdaq,True,keyword_match
+PCSA,1533743,"Processa Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"Processa Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+PDSB,1472091,PDS Biotechnology Corporation - Common Stock,NASDAQ,N,N,PDS Biotechnology Corp,Nasdaq,True,keyword_match
+PHAT,1783183,"Phathom Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"Phathom Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+PHGE,1739174,BiomX Inc. COmmon Stock,A,N,N,BiomX Inc.,NYSE,True,keyword_match
+PHIO,1533040,Phio Pharmaceuticals Corp. - Common Stock,NASDAQ,N,N,Phio Pharmaceuticals Corp.,Nasdaq,True,keyword_match
+PLRX,1746473,"Pliant Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"PLIANT THERAPEUTICS, INC.",Nasdaq,True,keyword_match
+PLSE,1625101,"Pulse Biosciences, Inc - Common Stock",NASDAQ,N,N,"PULSE BIOSCIENCES, INC.",Nasdaq,True,keyword_match
+PLX,1006281,"Protalix BioTherapeutics, Inc. (DE) Common Stock",A,N,N,"Protalix BioTherapeutics, Inc.",NYSE,True,keyword_match
+PMCB,1157075,"PharmaCyte  Biotech, Inc. - Common Stock",NASDAQ,N,N,"PharmaCyte Biotech, Inc.",Nasdaq,True,keyword_match
+PMVP,1699382,"PMV Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"PMV Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+PPCB,1517681,"Propanc Biopharma, Inc. - Common Stock",NASDAQ,N,N,"Propanc Biopharma, Inc.",Nasdaq,True,keyword_match
+PRCT,1588978,PROCEPT BioRobotics Corporation - Common Stock,NASDAQ,N,N,PROCEPT BioRobotics Corp,Nasdaq,True,keyword_match
+PRLD,1678660,Prelude Therapeutics Incorporated - Common Stock,NASDAQ,N,N,Prelude Therapeutics Inc,Nasdaq,True,keyword_match
+PRQR,1612940,ProQR Therapeutics N.V. - Ordinary Shares,NASDAQ,N,N,ProQR Therapeutics N.V.,Nasdaq,True,keyword_match
+PSTV,1095981,"PLUS THERAPEUTICS, Inc. - Common Stock",NASDAQ,N,N,"PLUS THERAPEUTICS, INC.",Nasdaq,True,keyword_match
+PTCT,1070081,"PTC Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"PTC THERAPEUTICS, INC.",Nasdaq,True,keyword_match
+PTGX,1377121,"Protagonist Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Protagonist Therapeutics, Inc",Nasdaq,True,keyword_match
+PTHS,1919246,Pelthos Therapeutics Inc. Common Stock,A,N,N,Pelthos Therapeutics Inc.,NYSE,True,keyword_match
+PVLA,1583648,"Palvella Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"PALVELLA THERAPEUTICS, INC.",Nasdaq,True,keyword_match
+PYXS,1782223,"Pyxis Oncology, Inc. - Common Stock",NASDAQ,N,N,"Pyxis Oncology, Inc.",Nasdaq,True,keyword_match
+QNCX,1662774,"Quince Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Quince Therapeutics, Inc.",Nasdaq,True,keyword_match
+QNTM,1771885,Quantum Biopharma Ltd. - Class B Subordinate Voting Shares,NASDAQ,N,N,Quantum Biopharma Ltd.,Nasdaq,True,keyword_match
+QTTB,1661998,Q32 Bio Inc. - Common Stock,NASDAQ,N,N,Q32 Bio Inc.,Nasdaq,True,keyword_match
+RANI,1856725,"Rani Therapeutics Holdings, Inc. - Class A Common Stock",NASDAQ,N,N,"Rani Therapeutics Holdings, Inc.",Nasdaq,True,keyword_match
+RAPP,2012593,"Rapport Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Rapport Therapeutics, Inc.",Nasdaq,True,keyword_match
+RAPT,1673772,"RAPT Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"RAPT Therapeutics, Inc.",Nasdaq,True,keyword_match
+RARE,1515673,Ultragenyx Pharmaceutical Inc. - Common Stock,NASDAQ,N,N,Ultragenyx Pharmaceutical Inc.,Nasdaq,True,keyword_match
+RCKT,1281895,"Rocket Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"ROCKET PHARMACEUTICALS, INC.",Nasdaq,True,keyword_match
+RCUS,1724521,"Arcus Biosciences, Inc. Common Stock",N,N,N,"Arcus Biosciences, Inc.",NYSE,True,keyword_match
+REGN,872589,"Regeneron Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"REGENERON PHARMACEUTICALS, INC.",Nasdaq,True,keyword_match
+REVB,1810560,"Revelation Biosciences, Inc. - Common Stock",NASDAQ,N,N,"REVELATION BIOSCIENCES, INC.",Nasdaq,True,keyword_match
+RGC,1829667,Regencell Bioscience Holdings Limited - Ordinary Shares,NASDAQ,N,N,Regencell Bioscience Holdings Ltd,Nasdaq,True,keyword_match
+RGNT,1912966,Regentis Biomaterials Ltd. Ordinary Shares,A,N,N,REGENTIS BIOMATERIALS LTD.,NYSE,True,keyword_match
+RGNX,1590877,REGENXBIO Inc. - Common Stock,NASDAQ,N,N,REGENXBIO Inc.,Nasdaq,True,keyword_match
+RIGL,1034842,"Rigel Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,RIGEL PHARMACEUTICALS INC,Nasdaq,True,keyword_match
+RKDA,1469443,"Arcadia Biosciences, Inc. - Common Stock",NASDAQ,N,N,"Arcadia Biosciences, Inc.",Nasdaq,True,keyword_match
+RLAY,1812364,"Relay Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Relay Therapeutics, Inc.",Nasdaq,True,keyword_match
+RLMD,1553643,"Relmada Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"RELMADA THERAPEUTICS, INC.",Nasdaq,True,keyword_match
+RLYB,1739410,Rallybio Corporation - Common Stock,NASDAQ,N,N,Rallybio Corp,Nasdaq,True,keyword_match
+RNA,1599901,"Avidity Biosciences, Inc. - Common Stock",NASDAQ,N,N,"Avidity Biosciences, Inc.",Nasdaq,True,keyword_match
+RNAC,1453687,"Cartesian Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Cartesian Therapeutics, Inc.",Nasdaq,True,keyword_match
+RNAZ,1829635,"TransCode Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Transcode Therapeutics, Inc.",Nasdaq,True,keyword_match
+RNTX,1420565,"Rein Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Rein Therapeutics, Inc.",Nasdaq,True,keyword_match
+RPID,1380106,"Rapid Micro Biosystems, Inc. - Class A Common Stock",NASDAQ,N,N,"RAPID MICRO BIOSYSTEMS, INC.",Nasdaq,True,keyword_match
+RPRX,1802768,Royalty Pharma plc - Class A Ordinary Shares,NASDAQ,N,N,Royalty Pharma plc,Nasdaq,True,keyword_match
+RPTX,1808158,Repare Therapeutics Inc. - Common Shares,NASDAQ,N,N,Repare Therapeutics Inc.,Nasdaq,True,keyword_match
+RVPH,1742927,"Reviva Pharmaceuticals Holdings, Inc. - Common Stock",NASDAQ,N,N,"REVIVA PHARMACEUTICALS HOLDINGS, INC.",Nasdaq,True,keyword_match
+RXRX,1601830,"Recursion Pharmaceuticals, Inc. - Class A Common Stock",NASDAQ,N,N,"RECURSION PHARMACEUTICALS, INC.",Nasdaq,True,keyword_match
+RYTM,1649904,"Rhythm Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"RHYTHM PHARMACEUTICALS, INC.",Nasdaq,True,keyword_match
+SABS,1833214,"SAB Biotherapeutics, Inc. - Common Stock",NASDAQ,N,N,"SAB Biotherapeutics, Inc.",Nasdaq,True,keyword_match
+SANA,1770121,"Sana Biotechnology, Inc. - Common Stock",NASDAQ,N,N,"Sana Biotechnology, Inc.",Nasdaq,True,keyword_match
+SBFM,1402328,Sunshine Biopharma Inc. - Common stock,NASDAQ,N,N,Sunshine Biopharma Inc.,Nasdaq,True,keyword_match
+SER,1708599,"Serina Therapeutics, Inc. Common Stock",A,N,N,"Serina Therapeutics, Inc.",NYSE,True,keyword_match
+SGMO,1001233,"Sangamo Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"SANGAMO THERAPEUTICS, INC",Nasdaq,True,keyword_match
+SGMT,1400118,Sagimet Biosciences Inc. - Series A Common Stock,NASDAQ,N,N,Sagimet Biosciences Inc.,Nasdaq,True,keyword_match
+SHPH,1757499,"Shuttle Pharmaceuticals Holdings, Inc. - common stock",NASDAQ,N,N,"Shuttle Pharmaceuticals Holdings, Inc.",Nasdaq,True,keyword_match
+SILO,1514183,"Silo Pharma, Inc. - Common Stock",NASDAQ,N,N,"Silo Pharma, Inc.",Nasdaq,True,keyword_match
+SION,2036042,"Sionna Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Sionna Therapeutics, Inc.",Nasdaq,True,keyword_match
+SKYE,1516551,"Skye Bioscience, Inc. - Common Stock",NASDAQ,N,N,"Skye Bioscience, Inc.",Nasdaq,True,keyword_match
+SLDB,1707502,Solid Biosciences Inc. - Common Stock,NASDAQ,N,N,Solid Biosciences Inc.,Nasdaq,True,keyword_match
+SLN,1479615,Silence Therapeutics Plc - American Depository Share,NASDAQ,N,N,Silence Therapeutics plc,Nasdaq,True,keyword_match
+SLNO,1484565,"Soleno Therapeutics, Inc. - Common Stock",NASDAQ,N,N,SOLENO THERAPEUTICS INC,Nasdaq,True,keyword_match
+SLS,1390478,"SELLAS Life Sciences Group, Inc.  - Common Stock",NASDAQ,N,N,"SELLAS Life Sciences Group, Inc.",Nasdaq,True,keyword_match
+SLXN,2022416,Silexion Therapeutics Corp - Ordinary Shares,NASDAQ,N,N,Silexion Therapeutics Corp,Nasdaq,True,keyword_match
+SMMT,1599298,Summit Therapeutics Inc.  - Common Stock,NASDAQ,N,N,Summit Therapeutics Inc.,Nasdaq,True,keyword_match
+SNDX,1395937,"Syndax Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,Syndax Pharmaceuticals Inc,Nasdaq,True,keyword_match
+SNOA,1367083,"Sonoma Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"Sonoma Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+SNSE,1829802,"Sensei Biotherapeutics, Inc. - Common Stock",NASDAQ,N,N,"Sensei Biotherapeutics, Inc.",Nasdaq,True,keyword_match
+SNTI,1854270,"Senti Biosciences, Inc.  - Common Stock",NASDAQ,N,N,"Senti Biosciences, Inc.",Nasdaq,True,keyword_match
+SPRB,1683553,"Spruce Biosciences, Inc. - Common Stock",NASDAQ,N,N,"SPRUCE BIOSCIENCES, INC.",Nasdaq,True,keyword_match
+SPRO,1701108,"Spero Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Spero Therapeutics, Inc.",Nasdaq,True,keyword_match
+SPRY,1671858,"ARS Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"ARS Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+SRPT,873303,"Sarepta Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Sarepta Therapeutics, Inc.",Nasdaq,True,keyword_match
+STOK,1623526,"Stoke Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Stoke Therapeutics, Inc.",Nasdaq,True,keyword_match
+STRO,1382101,"Sutro Biopharma, Inc. - Common Stock",NASDAQ,N,N,"SUTRO BIOPHARMA, INC.",Nasdaq,True,keyword_match
+SUPN,1356576,"Supernus Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"SUPERNUS PHARMACEUTICALS, INC.",Nasdaq,True,keyword_match
+SVA,1084201,"Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)",NASDAQ,N,N,SINOVAC BIOTECH LTD,Nasdaq,True,keyword_match
+SXTC,1723980,"China SXT Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"China SXT Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+SXTP,1946563,"60 Degrees Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"60 DEGREES PHARMACEUTICALS, INC.",Nasdaq,True,keyword_match
+SYRE,1636282,"Spyre Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Spyre Therapeutics, Inc.",Nasdaq,True,keyword_match
+TARA,1359931,"Protara Therapeutics, Inc.  - Common Stock",NASDAQ,N,N,"Protara Therapeutics, Inc.",Nasdaq,True,keyword_match
+TARS,1819790,"Tarsus Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"Tarsus Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+TBPH,1583107,"Theravance Biopharma, Inc. - Ordinary Shares",NASDAQ,N,N,"Theravance Biopharma, Inc.",Nasdaq,True,keyword_match
+TCRT,1107421,"Alaunos Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Alaunos Therapeutics, Inc.",Nasdaq,True,keyword_match
+TCRX,1783328,"TScan Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"TScan Therapeutics, Inc.",Nasdaq,True,keyword_match
+TECH,842023,Bio-Techne Corp - Common Stock,NASDAQ,N,N,BIO-TECHNE Corp,Nasdaq,True,keyword_match
+TECX,1681087,"Tectonic Therapeutic, Inc. - Common Stock",NASDAQ,N,N,"Tectonic Therapeutic, Inc.",Nasdaq,True,keyword_match
+TELA,1561921,"TELA Bio, Inc. - Common stock",NASDAQ,N,N,"TELA Bio, Inc.",Nasdaq,True,keyword_match
+TELO,1971532,"Telomir Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"Telomir Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+TENX,34956,"Tenax Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"TENAX THERAPEUTICS, INC.",Nasdaq,True,keyword_match
+TERN,1831363,"Terns Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"Terns Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+TGTX,1001316,"TG Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"TG THERAPEUTICS, INC.",Nasdaq,True,keyword_match
+TIL,1789769,"Instil Bio, Inc. - Common Stock",NASDAQ,N,N,"Instil Bio, Inc.",Nasdaq,True,keyword_match
+TLSA,1723069,Tiziana Life Sciences Ltd - Common Shares,NASDAQ,N,N,Tiziana Life Sciences Ltd,Nasdaq,True,keyword_match
+TLSI,1826667,"TriSalus Life Sciences, Inc. - Common Stock",NASDAQ,N,N,"TriSalus Life Sciences, Inc.",Nasdaq,True,keyword_match
+TNGX,1819133,"Tango Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Tango Therapeutics, Inc.",Nasdaq,True,keyword_match
+TNXP,1430306,Tonix Pharmaceuticals Holding Corp. - Common Stock,NASDAQ,N,N,Tonix Pharmaceuticals Holding Corp.,Nasdaq,True,keyword_match
+TNYA,1858848,"Tenaya Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Tenaya Therapeutics, Inc.",Nasdaq,True,keyword_match
+TOI,1799191,"The Oncology Institute, Inc. - Common Stock",NASDAQ,N,N,"Oncology Institute, Inc.",Nasdaq,True,keyword_match
+TOVX,894158,"Theriva Biologics, Inc. Common Stock",A,N,N,"Theriva Biologics, Inc.",NYSE,True,keyword_match
+TPST,1544227,"Tempest Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Tempest Therapeutics, Inc.",Nasdaq,True,keyword_match
+TRAW,1130598,"Traws Pharma, Inc. - Common Stock",NASDAQ,N,N,"Traws Pharma, Inc.",Nasdaq,True,keyword_match
+TRDA,1689375,"Entrada Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Entrada Therapeutics, Inc.",Nasdaq,True,keyword_match
+TRVI,1563880,"Trevi Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Trevi Therapeutics, Inc.",Nasdaq,True,keyword_match
+TTRX,2023016,Turn Therapeutics Inc. - Common Stock,NASDAQ,N,N,Turn Therapeutics Inc.,Nasdaq,True,keyword_match
+TVGN,1860871,Tevogen Bio Holdings Inc. - Common Stock,NASDAQ,N,N,Tevogen Bio Holdings Inc.,Nasdaq,True,keyword_match
+TVRD,1346830,"Tvardi Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Tvardi Therapeutics, Inc.",Nasdaq,True,keyword_match
+TVTX,1438533,"Travere Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Travere Therapeutics, Inc.",Nasdaq,True,keyword_match
+TWST,1581280,Twist Bioscience Corporation - Common Stock,NASDAQ,N,N,Twist Bioscience Corp,Nasdaq,True,keyword_match
+TXG,1770787,"10x Genomics, Inc. - Common Stock",NASDAQ,N,N,"10x Genomics, Inc.",Nasdaq,True,keyword_match
+TXMD,25743,"TherapeuticsMD, Inc. - Common Stock",NASDAQ,N,N,"TherapeuticsMD, Inc.",Nasdaq,True,keyword_match
+TYRA,1863127,"Tyra Biosciences, Inc. - Common Stock",NASDAQ,N,N,"Tyra Biosciences, Inc.",Nasdaq,True,keyword_match
+UNCY,1766140,"Unicycive Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Unicycive Therapeutics, Inc.",Nasdaq,True,keyword_match
+UPB,2022626,"Upstream Bio, Inc. - Common Stock",NASDAQ,N,N,"Upstream Bio, Inc.",Nasdaq,True,keyword_match
+UPC,1809616,Universe Pharmaceuticals Inc - Ordinary Shares,NASDAQ,N,N,Universe Pharmaceuticals INC,Nasdaq,True,keyword_match
+URGN,1668243,UroGen Pharma Ltd. - Ordinary Shares,NASDAQ,N,N,UroGen Pharma Ltd.,Nasdaq,True,keyword_match
+VERA,1831828,"Vera Therapeutics, Inc. - Class A Common Stock",NASDAQ,N,N,"Vera Therapeutics, Inc.",Nasdaq,True,keyword_match
+VIR,1706431,"Vir Biotechnology, Inc. - Common Stock",NASDAQ,N,N,"Vir Biotechnology, Inc.",Nasdaq,True,keyword_match
+VKTX,1607678,"Viking Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Viking Therapeutics, Inc.",Nasdaq,True,keyword_match
+VNDA,1347178,Vanda Pharmaceuticals Inc. - Common Stock,NASDAQ,N,N,Vanda Pharmaceuticals Inc.,Nasdaq,True,keyword_match
+VOR,1817229,Vor Biopharma Inc. - Common Stock,NASDAQ,N,N,Vor Biopharma Inc.,Nasdaq,True,keyword_match
+VRAX,1885827,Virax Biolabs Group Limited - Ordinary Shares,NASDAQ,N,N,Virax Biolabs Group Ltd,Nasdaq,True,keyword_match
+VRCA,1660334,Verrica Pharmaceuticals Inc. - Common Stock,NASDAQ,N,N,Verrica Pharmaceuticals Inc.,Nasdaq,True,keyword_match
+VRDN,1590750,"Viridian Therapeutics, Inc.  - Common Stock",NASDAQ,N,N,"Viridian Therapeutics, Inc.\DE",Nasdaq,True,keyword_match
+VRTX,875320,Vertex Pharmaceuticals Incorporated - Common Stock,NASDAQ,N,N,VERTEX PHARMACEUTICALS INC / MA,Nasdaq,True,keyword_match
+VTGN,1411685,"Vistagen Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Vistagen Therapeutics, Inc.",Nasdaq,True,keyword_match
+VTVT,1641489,vTv Therapeutics Inc. - Class A Common Stock,NASDAQ,N,N,vTv Therapeutics Inc.,Nasdaq,True,keyword_match
+VTYX,1851194,"Ventyx Biosciences, Inc. - Common Stock",NASDAQ,N,N,"Ventyx Biosciences, Inc.",Nasdaq,True,keyword_match
+VVOS,1716166,"Vivos Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Vivos Therapeutics, Inc.",Nasdaq,True,keyword_match
+VYGR,1640266,"Voyager Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Voyager Therapeutics, Inc.",Nasdaq,True,keyword_match
+VYNE,1566044,VYNE Therapeutics Inc. - Common Stock,NASDAQ,N,N,VYNE Therapeutics Inc.,Nasdaq,True,keyword_match
+WHWK,1422142,"Whitehawk Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Whitehawk Therapeutics, Inc.",Nasdaq,True,keyword_match
+WST,105770,"West Pharmaceutical Services, Inc. Common Stock",N,N,N,WEST PHARMACEUTICAL SERVICES INC,NYSE,True,keyword_match
+WVE,1631574,Wave Life Sciences Ltd. - Ordinary Shares,NASDAQ,N,N,Wave Life Sciences Ltd.,Nasdaq,True,keyword_match
+XBIO,1534525,"Xenetic Biosciences, Inc. - Common Stock",NASDAQ,N,N,"Xenetic Biosciences, Inc.",Nasdaq,True,keyword_match
+XBIT,1626878,XBiotech Inc. - Common Stock,NASDAQ,N,N,XBiotech Inc.,Nasdaq,True,keyword_match
+XENE,1582313,Xenon Pharmaceuticals Inc. - Common Shares,NASDAQ,N,N,Xenon Pharmaceuticals Inc.,Nasdaq,True,keyword_match
+XERS,1867096,"Xeris Biopharma Holdings, Inc. - Common Stock",NASDAQ,N,N,"Xeris Biopharma Holdings, Inc.",Nasdaq,True,keyword_match
+XFOR,1501697,"X4 Pharmaceuticals, Inc. - Common Stock",NASDAQ,N,N,"X4 Pharmaceuticals, Inc",Nasdaq,True,keyword_match
+XLO,1840233,"Xilio Therapeutics, Inc. - Common Stock",NASDAQ,N,N,"Xilio Therapeutics, Inc.",Nasdaq,True,keyword_match
+XRTX,1729214,XORTX Therapeutics Inc. - Common Stock,NASDAQ,N,N,XORTX Therapeutics Inc.,Nasdaq,True,keyword_match
+YDES,2011674,YD Bio Limited - Ordinary Shares,NASDAQ,N,N,YD Bio Ltd,Nasdaq,True,keyword_match
+ZBH,1136869,"Zimmer Biomet Holdings, Inc. Common Stock",N,N,N,"ZIMMER BIOMET HOLDINGS, INC.",NYSE,True,keyword_match
+ZBIO,1953926,"Zenas BioPharma, Inc. - Common Stock",NASDAQ,N,N,"Zenas BioPharma, Inc.",Nasdaq,True,keyword_match
+ZNTL,1725160,"Zentalis Pharmaceuticals, Inc. - common stock",NASDAQ,N,N,"Zentalis Pharmaceuticals, Inc.",Nasdaq,True,keyword_match
+ZURA,1855644,Zura Bio Limited - Class A Ordinary shares,NASDAQ,N,N,Zura Bio Ltd,Nasdaq,True,keyword_match
+ZVRA,1434647,"Zevra Therapeutics, Inc.  - Common Stock",NASDAQ,N,N,"ZEVRA THERAPEUTICS, INC.",Nasdaq,True,keyword_match
+ZYBT,1975641,Zhengye Biotechnology Holding Limited - Ordinary Shares,NASDAQ,N,N,Zhengye Biotechnology Holding Ltd,Nasdaq,True,keyword_match
