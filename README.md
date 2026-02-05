@@ -89,6 +89,9 @@ $env:UNIVERSE_FILE="data/universe_biopharma.csv"
 ```powershell
 python run_all.py
 ```
+### 6) Simple UI
+streamlit run ui_app.py
+(Download the streamlit package)
 
 Optional clean run:
 
