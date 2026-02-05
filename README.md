@@ -211,7 +211,7 @@ This can be normal (no catalysts found in the time window), but check:
 
 * `out/sec_scan_log.csv` (hits per filing)
 * `print_stats.py` for row counts
-* `diagnose_calendar_yield.py` if the calendar is empty
+* `diagnose_calendar_yield.py` if the calendar is empty.
 
 
 
