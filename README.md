@@ -213,10 +213,6 @@ This can be normal (no catalysts found in the time window), but check:
 * `print_stats.py` for row counts
 * `diagnose_calendar_yield.py` if the calendar is empty
 
-### 3) Ranking/alerts break due to schema changes
 
-If you upgraded from `final_score` → `score`, update scripts to accept both (you already patched alerts/daily brief).
-
----
 
 
